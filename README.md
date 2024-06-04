@@ -1,1 +1,1 @@
-"# Transformers-for-Machine-Translation" 
+This is a repository containing the development of a transformer model from scratch, built specifically for the purpose of machine translation from English to Bengali. Trained on smaller hyperparameter values over five epochs due to computation restrictions.
